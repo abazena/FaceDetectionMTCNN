@@ -1,0 +1,3 @@
+pip install tensorflow
+pip install opencv
+pip install mtcnn
